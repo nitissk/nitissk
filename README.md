@@ -4,15 +4,15 @@
 
 - 👀 I’m interested in Artificial Intelligence.
 - 🌱 I’m currently learning Web Development and Java.
-- 💞️ I’m currently pursuing B.Tech (CSE-H).
+- 💞️ I’m currently pursuing B.Tech (CSE).
 - 📫 Get in Touch - nitishk2250@gmail.com.
-- 📱 Technical Skills - Java, Python, C, C++ (Basic), HTML5, CSS3, JavaScript.
+- 📱 Technical Skills - C/C++ , Java, Python(Basic), HTML5, CSS3, JavaScript.
 
 
 <br>
 <h2 align="center">📚 My Education </h2>
 
-- ⌚ B.Tech (CSE-H) at GL Bajaj Institute of Technology and Management (2021-25).
+- ⌚ B.Tech (CSE) at GL Bajaj Institute of Technology and Management (2021-25).
 
 <br>
 
