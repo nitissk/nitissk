@@ -2,8 +2,6 @@
 <h1 align="center"> Hi👋, I am NITISH KUMAR</h1>
 
 
-- 👀 I’m interested in Artificial Intelligence.
-- 🌱 I’m currently learning Web Development and Java.
 - 💞️ I’m currently pursuing B.Tech (CSE).
 - 📫 Get in Touch - nitishk2250@gmail.com.
 - 📱 Technical Skills - C/C++ , Java, Python(Basic), HTML5, CSS3, JavaScript.
