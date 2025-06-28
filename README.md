@@ -2,7 +2,7 @@
 <h1 align="center"> Hi👋, I am NITISH KUMAR</h1>
 
 
-- 💞️ I’m currently pursuing B.Tech (CSE).
+- 💞️ I’m  a frontend developer.
 - 📫 Get in Touch - nitishk2250@gmail.com.
 - 📱 Technical Skills - C/C++ , Java, Python(Basic), HTML5, CSS3, JavaScript.
 
